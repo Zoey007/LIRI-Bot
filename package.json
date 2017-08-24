@@ -1,0 +1,23 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zoey007/LIRI-Bot.git"
+  },
+  "author": "Guiyu Zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zoey007/LIRI-Bot/issues"
+  },
+  "homepage": "https://github.com/Zoey007/LIRI-Bot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "node-twitter-api": "^1.8.0"
+  }
+}
